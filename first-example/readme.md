@@ -1,3 +1,3 @@
 # first-example
 
-Create a OpenSuse VM in AWS with terraform
+Create a OpenSuse EC2 instance in AWS with terraform
