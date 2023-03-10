@@ -4,3 +4,4 @@
 *.backup
 .terraform
 .terraform/*
+*.out
